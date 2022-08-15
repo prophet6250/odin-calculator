@@ -3,10 +3,10 @@ A simple calculator, made for partial fulfilment of The Odin Project curriculum
 
 ## Todo:
 
-- [x] Basic arithmetic operations working (add, subtract, divide, multiply)
-- [x] Create a new function `operate` that takes an operator and 2 numbers and then calls one of the above functions on the numbers
-- [x] Create a basic HTML calculator with buttons for each digit, each of the above functions and an “Equals” key
-  - [x] There should be a display for the calculator, fill it up with some dummy numbers
+- [] Basic arithmetic operations working (add, subtract, divide, multiply)
+- [] Create a new function `operate` that takes an operator and 2 numbers and then calls one of the above functions on the numbers
+- [] Create a basic HTML calculator with buttons for each digit, each of the above functions and an “Equals” key
+  - [] There should be a display for the calculator, fill it up with some dummy numbers
   - [] Add clear button 
 - [] Create the functions that populate the display when you click the number buttons
 - [] Calculator should work by now. User should be able to enter any set of operator, inputs, and it should work just fine
